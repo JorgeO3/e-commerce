@@ -1,6 +1,6 @@
 # Ecommerce de alimentos
 
-Este proyecto es un ecommerce de alimentos que cuenta con tres módulos en su frontend: autenticación, panel administrativo y ecommerce. En el backend, se implementa una arquitectura de microservicios que incluye los siguientes servicios: authentication, message broker, customer, inventory, logger, mail, order, product y redis.
+Este proyecto es un ecommerce de alimentos que cuenta con tres módulos en su frontend: autenticación, panel administrativo y ecommerce. En el backend, se implementa una arquitectura de microservicios que incluye los siguientes servicios: authentication, message broker, customer, inventory, logger, mail, order, product y redis. En la arquitectura de microservicios implementada, los servicios se comunican mediante el protocolo HTTP.
 
 ## Tecnologías utilizadas
 
