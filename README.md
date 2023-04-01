@@ -9,7 +9,7 @@ Este proyecto es un ecommerce de alimentos que cuenta con tres módulos en su fr
   - Lenguajes: Rust, Golang y Node.js.
   - Bases de datos relacionales: Postgres y Oracle.
   - Bases de datos no relacionales: MongoDB.
-  - Herramientas: NGINX (Api Gateway), Docker, Kubernetes (k0s), ArgoCD, Harbor(container registry), Grafana, Prometheus, ZIKPKIN, NACOS, Seq y TeamCity (CI/CD).
+  - Herramientas: NGINX (Api Gateway), Docker, Kubernetes (k0s), ArgoCD, Harbor (container registry), Grafana, Prometheus, ZIKPKIN, NACOS, Seq y TeamCity (CI/CD).
 
 ## Arquitectura de microservicios
 
