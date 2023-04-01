@@ -4,12 +4,12 @@ Este proyecto es un ecommerce de alimentos que cuenta con tres módulos en su fr
 
 ## Tecnologías utilizadas
 
-- Frontend: [insertar aquí las tecnologías utilizadas]
+- Frontend: Vue 3 y Angular 15.
 - Backend:
-  - Lenguajes: Rust, Golang y Node.js
-  - Bases de datos relacionales: Postgres y Oracle
-  - Bases de datos no relacionales: MongoDB
-  - Herramientas: Docker y Kubernetes
+  - Lenguajes: Rust, Golang y Node.js.
+  - Bases de datos relacionales: Postgres y Oracle.
+  - Bases de datos no relacionales: MongoDB.
+  - Herramientas: Docker y Kubernetes.
 
 ## Arquitectura de microservicios
 
