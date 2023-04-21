@@ -56,4 +56,4 @@ Este proyecto está en constante evolución, por lo que se aceptan contribucione
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia [insertar aquí la licencia utilizada].
+Este proyecto se distribuye bajo la licencia [MIT](./LICENCE).
