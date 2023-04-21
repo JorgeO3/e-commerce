@@ -9,7 +9,18 @@ Este proyecto es un ecommerce de alimentos que cuenta con tres módulos en su fr
   - Lenguajes: Rust, Golang y Node.js.
   - Bases de datos relacionales: Postgres y Oracle.
   - Bases de datos no relacionales: MongoDB.
-  - Herramientas: NGINX (Api Gateway), Docker, Kubernetes (k0s), ArgoCD, Harbor (container registry), Grafana, Prometheus, ZIKPKIN, NACOS, Seq y TeamCity (CI/CD).
+- Herramientas:
+  - NGINX: Servidor web y proxy inverso.
+  - Docker: Plataforma para la creación, envío y ejecución de aplicaciones en contenedores.
+  - Kubernetes (k0s): Plataforma de orquestación de contenedores para la automatización del despliegue, escalado y administración de aplicaciones.
+  - ArgoCD: Herramienta de despliegue continuo para Kubernetes.
+  - Harbor: Registro de contenedores.
+  - Grafana: Plataforma de análisis y visualización de datos.
+  - Prometheus: Sistema de monitoreo y alerta.
+  - ZIKPKIN: Plataforma de seguimiento y análisis de logs.
+  - NACOS: Servicio de registro y descubrimiento de servicios.
+  - Seq: Plataforma de análisis de logs en tiempo real.
+  - TeamCity: Herramienta de integración y entrega continuas (CI/CD).
 
 ## Arquitectura de microservicios
 
@@ -31,7 +42,9 @@ Como se mencionó anteriormente, los microservicios de authentication y message 
 
 ## Bases de datos
 
-Se utilizarán bases de datos relacionales para Postgres y Oracle, y una base de datos no relacional para MongoDB.
+Para la gestión de los datos estructurados, se utilizarán bases de datos relacionales como Postgres o Oracle, mientras que para la gestión de datos no estructurados se empleará una base de datos no relacional como MongoDB.
+
+TODO: Implement the Entity Relationship Diagram.
 
 ## Despliegue
 
